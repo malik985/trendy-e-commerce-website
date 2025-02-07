@@ -8,7 +8,6 @@ Trendy is a modern e-commerce platform for browsing and purchasing clothing. It 
 - **Frontend**: React.js
 - **Backend**: Express.js
 - **Database**: MongoDB
-- **Payment Integration**: Stripe/PayPal
 
 ## 🚀 Features
 - User Authentication (Sign Up, Login, Logout)
