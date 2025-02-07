@@ -14,5 +14,5 @@ Trendy is a modern e-commerce platform for browsing and purchasing clothing. It 
 - User Authentication (Sign Up, Login, Logout)
 - Product Catalog with Search and Filters
 - Shopping Cart Management
-- Order Processing and Payment Integration
+- Order Processing
 - Admin Panel for Product and Order Management
